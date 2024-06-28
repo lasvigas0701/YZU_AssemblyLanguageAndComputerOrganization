@@ -1,6 +1,6 @@
 # YZU_Assembly Language and Computer Organization(ALCO)
 ```
-YZU_Assembly Language and Computer Organization class in spring semester of sophomore year (2024S/1122)
+Assembly Language and Computer Organization class in spring semester of sophomore year (2024S/1122)
 ```
 
 ### Course Name:
